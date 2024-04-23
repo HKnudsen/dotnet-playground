@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNetProjects\\DotNetMvcUdemy\\Ecom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B70CE7AD-59E7-43AA-A72E-A01A5A548081}|EcomWebApp\\EcomWebApp.csproj|d:\\dotnetprojects\\dotnetmvcudemy\\ecom\\ecomwebapp\\ecomwebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B70CE7AD-59E7-43AA-A72E-A01A5A548081}|EcomWebApp\\EcomWebApp.csproj|solutionrelative:ecomwebapp\\ecomwebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EcomWebApp",
+              "DocumentMoniker": "D:\\DotNetProjects\\DotNetMvcUdemy\\Ecom\\EcomWebApp\\EcomWebApp.csproj",
+              "RelativeDocumentMoniker": "EcomWebApp\\EcomWebApp.csproj",
+              "ToolTip": "D:\\DotNetProjects\\DotNetMvcUdemy\\Ecom\\EcomWebApp\\EcomWebApp.csproj",
+              "RelativeToolTip": "EcomWebApp\\EcomWebApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-23T20:09:56.719Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
