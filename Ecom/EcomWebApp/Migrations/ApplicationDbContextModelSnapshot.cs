@@ -31,7 +31,7 @@ namespace EcomWebApp.Migrations
 
                     b.Property<string>("DisplayOrder")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("int");
 
                     b.Property<string>("Name")
                         .IsRequired()
@@ -45,19 +45,19 @@ namespace EcomWebApp.Migrations
                         new
                         {
                             Id = 1,
-                            DisplayOrder = "1",
+                            DisplayOrder = 1,
                             Name = "Action"
                         },
                         new
                         {
                             Id = 2,
-                            DisplayOrder = "2",
+                            DisplayOrder = 2,
                             Name = "SciFi"
                         },
                         new
                         {
                             Id = 3,
-                            DisplayOrder = "3",
+                            DisplayOrder = 3,
                             Name = "History"
                         });
                 });
