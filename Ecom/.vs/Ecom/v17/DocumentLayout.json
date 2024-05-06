@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "D:\\DotNetProjects\\DotNetMvcUdemy\\Ecom\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B70CE7AD-59E7-43AA-A72E-A01A5A548081}|EcomWebApp\\EcomWebApp.csproj|d:\\dotnetprojects\\dotnetmvcudemy\\ecom\\ecomwebapp\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B70CE7AD-59E7-43AA-A72E-A01A5A548081}|EcomWebApp\\EcomWebApp.csproj|solutionrelative:ecomwebapp\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B70CE7AD-59E7-43AA-A72E-A01A5A548081}|EcomWebApp\\EcomWebApp.csproj|d:\\dotnetprojects\\dotnetmvcudemy\\ecom\\ecomwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B70CE7AD-59E7-43AA-A72E-A01A5A548081}|EcomWebApp\\EcomWebApp.csproj|solutionrelative:ecomwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B70CE7AD-59E7-43AA-A72E-A01A5A548081}|EcomWebApp\\EcomWebApp.csproj|d:\\dotnetprojects\\dotnetmvcudemy\\ecom\\ecomwebapp\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B70CE7AD-59E7-43AA-A72E-A01A5A548081}|EcomWebApp\\EcomWebApp.csproj|solutionrelative:ecomwebapp\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B70CE7AD-59E7-43AA-A72E-A01A5A548081}|EcomWebApp\\EcomWebApp.csproj|d:\\dotnetprojects\\dotnetmvcudemy\\ecom\\ecomwebapp\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B70CE7AD-59E7-43AA-A72E-A01A5A548081}|EcomWebApp\\EcomWebApp.csproj|solutionrelative:ecomwebapp\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B70CE7AD-59E7-43AA-A72E-A01A5A548081}|EcomWebApp\\EcomWebApp.csproj|d:\\dotnetprojects\\dotnetmvcudemy\\ecom\\ecomwebapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B70CE7AD-59E7-43AA-A72E-A01A5A548081}|EcomWebApp\\EcomWebApp.csproj|solutionrelative:ecomwebapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B70CE7AD-59E7-43AA-A72E-A01A5A548081}|EcomWebApp\\EcomWebApp.csproj|d:\\dotnetprojects\\dotnetmvcudemy\\ecom\\ecomwebapp\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B70CE7AD-59E7-43AA-A72E-A01A5A548081}|EcomWebApp\\EcomWebApp.csproj|solutionrelative:ecomwebapp\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B70CE7AD-59E7-43AA-A72E-A01A5A548081}|EcomWebApp\\EcomWebApp.csproj|d:\\dotnetprojects\\dotnetmvcudemy\\ecom\\ecomwebapp\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B70CE7AD-59E7-43AA-A72E-A01A5A548081}|EcomWebApp\\EcomWebApp.csproj|solutionrelative:ecomwebapp\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B70CE7AD-59E7-43AA-A72E-A01A5A548081}|EcomWebApp\\EcomWebApp.csproj|d:\\dotnetprojects\\dotnetmvcudemy\\ecom\\ecomwebapp\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -35,19 +47,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\DotNetProjects\\DotNetMvcUdemy\\Ecom\\EcomWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EcomWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\DotNetProjects\\DotNetMvcUdemy\\Ecom\\EcomWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EcomWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T09:41:43.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\DotNetProjects\\DotNetMvcUdemy\\Ecom\\EcomWebApp\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "EcomWebApp\\Models\\Category.cs",
+              "ToolTip": "D:\\DotNetProjects\\DotNetMvcUdemy\\Ecom\\EcomWebApp\\Models\\Category.cs",
+              "RelativeToolTip": "EcomWebApp\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T09:39:32.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Notification.cshtml",
+              "DocumentMoniker": "D:\\DotNetProjects\\DotNetMvcUdemy\\Ecom\\EcomWebApp\\Views\\Shared\\_Notification.cshtml",
+              "RelativeDocumentMoniker": "EcomWebApp\\Views\\Shared\\_Notification.cshtml",
+              "ToolTip": "D:\\DotNetProjects\\DotNetMvcUdemy\\Ecom\\EcomWebApp\\Views\\Shared\\_Notification.cshtml",
+              "RelativeToolTip": "EcomWebApp\\Views\\Shared\\_Notification.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T09:36:39.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\DotNetProjects\\DotNetMvcUdemy\\Ecom\\EcomWebApp\\Views\\Category\\Delete.cshtml",
               "RelativeDocumentMoniker": "EcomWebApp\\Views\\Category\\Delete.cshtml",
               "ToolTip": "D:\\DotNetProjects\\DotNetMvcUdemy\\Ecom\\EcomWebApp\\Views\\Category\\Delete.cshtml",
               "RelativeToolTip": "EcomWebApp\\Views\\Category\\Delete.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAABOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-06T09:18:10.261Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\DotNetProjects\\DotNetMvcUdemy\\Ecom\\EcomWebApp\\Views\\Category\\Edit.cshtml",
               "RelativeDocumentMoniker": "EcomWebApp\\Views\\Category\\Edit.cshtml",
@@ -55,31 +106,30 @@
               "RelativeToolTip": "EcomWebApp\\Views\\Category\\Edit.cshtml",
               "ViewState": "AQIAAAMAAAAAAAAAAAAIwCUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-03T09:15:16.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T09:15:16.719Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\DotNetProjects\\DotNetMvcUdemy\\Ecom\\EcomWebApp\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "EcomWebApp\\Views\\Category\\Index.cshtml",
               "ToolTip": "D:\\DotNetProjects\\DotNetMvcUdemy\\Ecom\\EcomWebApp\\Views\\Category\\Index.cshtml",
               "RelativeToolTip": "EcomWebApp\\Views\\Category\\Index.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAC8AAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-03T09:06:10.086Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "D:\\DotNetProjects\\DotNetMvcUdemy\\Ecom\\EcomWebApp\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "EcomWebApp\\Controllers\\CategoryController.cs",
               "ToolTip": "D:\\DotNetProjects\\DotNetMvcUdemy\\Ecom\\EcomWebApp\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "EcomWebApp\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAAEAAAAAAAAAAAAAwwFwAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-26T11:33:39.915Z",
               "EditorCaption": ""
